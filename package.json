@@ -1,0 +1,21 @@
+{
+  "name": "desafio-1",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao desafio técnico da Hypesoft! Este projeto consiste no desenvolvimento de um sistema completo de gestão de produtos, demonstrando suas habilidades em arquitetura moderna, boas práticas de desenvolvimento e tecnologias de ponta.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasOliveira6032/desafio-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LucasOliveira6032/desafio-1/issues"
+  },
+  "homepage": "https://github.com/LucasOliveira6032/desafio-1#readme"
+}
